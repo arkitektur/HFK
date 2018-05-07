@@ -3,4 +3,4 @@
 Overordnet virksomhetsarkitektur til HFK
 
 
-(Lenk)[www.yahoo.com]
+[Tilfeldig tekst](www.yahoo.com)
