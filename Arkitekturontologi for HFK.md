@@ -4,7 +4,7 @@
 
 For å oppnå ei felles forståing for begrep og uttrykk som vert nytta i verksemdsarkitektur vil dette dokumentet oppgje viktige oversetjingar og definisjonar. Definisjonane er henta frå *TOGAF 9.1. Translation Glossary: English-Norwegian*.
 
-Denne seksjonen innheld ei liste over begrep og definisjonar som vert nytta i TOGAF 9.1, kapittel 3 oversett frå engelsk til norsk, og med referansar til TOGAF 9.1 standarden.
+Denne seksjonen innheld ei liste over begrep og definisjonar som vert nytta i *TOGAF 9.1, kapittel 3* oversett frå engelsk til norsk, og med referansar til TOGAF 9.1 standarden.
 
 **Engelsk** | **Norsk** | **TOGAF 9.1 Referanse** 
 ------- | ----- | ------------------- 
